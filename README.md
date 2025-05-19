@@ -1,3 +1,3 @@
 # your-worst-nightmare
-This is over 200 megabytes of the least used emoji in the world
+This is a display of anything an uncanny number of times
 https://nobody632.github.io/your-worst-nightmare/
